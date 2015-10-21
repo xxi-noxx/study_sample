@@ -1,0 +1,9 @@
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\bin\Debug\HelloWorld.exe
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\obj\Debug\HelloWorld.exe
+C:\VS2015WorkSpace\UenoStudyEXVS\HelloWorld\obj\Debug\HelloWorld.pdb

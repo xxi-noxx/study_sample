@@ -1,0 +1,8 @@
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\bin\Debug\Calc.exe.config
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\bin\Debug\Calc.exe
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\bin\Debug\Calc.pdb
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\obj\Debug\Calc.Calc.resources
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\obj\Debug\Calc.exe
+C:\VS2015WorkSpace\UenoStudyEXVS\Calc\obj\Debug\Calc.pdb
