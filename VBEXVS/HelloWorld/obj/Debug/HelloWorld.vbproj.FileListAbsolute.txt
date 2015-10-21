@@ -1,0 +1,14 @@
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\HelloWorld.exe
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\HelloWorld.xml
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\obj\Debug\HelloWorld.exe
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\obj\Debug\HelloWorld.xml
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\EntityFramework.dll
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\EntityFramework.xml
+C:\VS2015WorkSpace\VBEXVS\HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
