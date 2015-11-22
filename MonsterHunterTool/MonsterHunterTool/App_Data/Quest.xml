@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quests>
+  <Quest>
+    <No>1</No>
+    <Name>双獅激天</Name>
+    <Level>DLクエスト</Level>
+    <Type>狩猟クエスト</Type>
+    <Location>大闘技場</Location>
+    <Misson>ラージャン２頭の狩猟</Misson>
+    <Remark>激昂ラージャン２頭同時出現</Remark>
+  </Quest>
+  <Quest>
+    <No>2</No>
+    <Name>最後の招待状</Name>
+    <Level>☆９</Level>
+    <Type>狩猟クエスト</Type>
+    <Location>大闘技場</Location>
+    <Misson>ラージャン２頭</Misson>
+    <Remark>１頭目討伐時orクエスト開始１０分後に、２頭目出現</Remark>
+  </Quest>
+</Quests>
